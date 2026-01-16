@@ -1,0 +1,57 @@
+#mobile-outline {
+   outline: 20px solid #333;
+   max-width: 412px;
+   margin: 20px auto 20px auto;
+   border-radius: 10px;
+} 
+
+body {
+    font-family: 'Ubuntu', 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #222;
+    background-color: #f5f5f5;
+}
+
+h1 {
+    font-family: 'Fira Sans', 'Times New Roman', Times, serif;
+    font-size: 38px;
+    letter-spacing: 8px;
+    text-align: center;
+    color: white;
+    background-color: #d98714;
+    padding: 20px 0;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+h2 {
+    font-family: 'Fira Sans', 'Times New Roman', Times, serif;
+    margin-bottom: 12px;
+    font-size: 22px;
+    color: #d98714;
+}
+
+.intro {
+    font-size: 20px;
+    font-weight: 375;
+    line-height: 1.2;
+    color: #555;
+    text-align: center;
+    margin-top: 18px;
+}
+
+img {
+    margin: 18px 0;
+    border-radius: 6px;
+}
+
+footer {
+    margin-top: 20px;
+    background-color: #d98714;
+    color: white;
+    padding: 20px 0;
+    margin-left: -20px;
+    margin-right: -20px;
+    text-align: center;
+}
